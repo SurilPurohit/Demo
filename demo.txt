@@ -6,3 +6,5 @@ git init
 > git commit -m "message"
 > git remote add orgin <url>
 > git push origin master
+
+Tried editing in Github directly.
